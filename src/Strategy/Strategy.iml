@@ -7,9 +7,6 @@
       <sourceFolder url="file://$MODULE_DIR$/A4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Q4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sample" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/A1" />
-      <excludeFolder url="file://$MODULE_DIR$/A4" />
-      <excludeFolder url="file://$MODULE_DIR$/Q4" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

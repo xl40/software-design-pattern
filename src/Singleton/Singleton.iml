@@ -10,12 +10,6 @@
       <sourceFolder url="file://$MODULE_DIR$/Q1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Q3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sample" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/A1" />
-      <excludeFolder url="file://$MODULE_DIR$/A2" />
-      <excludeFolder url="file://$MODULE_DIR$/A3_1" />
-      <excludeFolder url="file://$MODULE_DIR$/A3_2" />
-      <excludeFolder url="file://$MODULE_DIR$/Q1" />
-      <excludeFolder url="file://$MODULE_DIR$/Q3" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
